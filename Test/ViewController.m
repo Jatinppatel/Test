@@ -23,7 +23,7 @@
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
-    NSLog(@"Commit");
+    NSLog(@"Commit++++");
     // Dispose of any resources that can be recreated.
 }
 
